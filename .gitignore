@@ -1,5 +1,37 @@
+# IDE-specific files
 .idea/
+.vscode/
+
+# Python build artifacts
 build/
 dist/
-main.spec
-.gitattributes
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.eggs/
+
+# Environment files
+.venv/
+env/
+*.env
+*.venv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Application-specific files
+settings.json
+*.lock
+*.exe
+*.spec
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.~*
+
+# Other
+.python-version
