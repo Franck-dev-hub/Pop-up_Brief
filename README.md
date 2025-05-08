@@ -29,9 +29,9 @@ If you encounter issues, ensure:
 
 ## 📝 Version History
 - **v1.1.0**:
-    - Add .conf file and logic
+    - Add .conf file and logic
 - **v1.0.0**:
-    - Initial Release
+    - Initial Release
 
 ## 📜 License
 - This project is licensed under MIT Licence - see the LICENSE.txt file for details.
