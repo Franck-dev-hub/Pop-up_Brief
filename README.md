@@ -28,6 +28,8 @@ If you encounter issues, ensure:
 - Franck-dev-hub - Franck S. - Initial development and design.
 
 ## 📝 Version History
+- **v1.1.1**:
+    - Add supporting files
 - **v1.1.0**:
     - Add .conf file and logic
 - **v1.0.0**:
